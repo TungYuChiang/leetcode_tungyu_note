@@ -1,5 +1,3 @@
-# leetcode_tungyu_note
-
 # 簡介
 你好，這邊是我用來存放Leetcode的刷題程式碼
 詳細的筆記之後會整理在Notion，連接之後提供。
