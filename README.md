@@ -1,6 +1,8 @@
 # 簡介
 你好，這邊是我用來存放Leetcode的刷題程式碼
-詳細的筆記之後會整理在Notion，連接之後提供。
+詳細的筆記之後會整理在Notion
+---
+Backtracking:https://sedate-emery-7b5.notion.site/Backtracking-4588e152fb804d6f89022d8034984e5e?pvs=4
 
 # 加入我的社群
 秉持著「一個人走很快，一群人可以走得很遠」的座右銘，我創立一個Discord的刷題群組
