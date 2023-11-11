@@ -1,7 +1,7 @@
 # 簡介
 你好，這邊是我用來存放Leetcode的刷題程式碼
 詳細的筆記之後會整理在Notion
----
+## 各主題Notion連接
 Backtracking:https://sedate-emery-7b5.notion.site/Backtracking-4588e152fb804d6f89022d8034984e5e?pvs=4
 
 # 加入我的社群
